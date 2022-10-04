@@ -7,19 +7,19 @@ body {
 
 #job1 {
 font-family: 'Courier New', Courier, monospace;
-border: 5px dotted black;
+border: 5px dotted palevioletred;
 }
 
 #job2 {
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-border: 10px solid chartreuse;
+border: 7px solid lavender;
 }
 
 #job3 {
 font-family: Arial, Helvetica, sans-serif;
-border: 15px dashed palevioletred;
+border: 9px dashed lavenderblush;
 }
 
 h1 {
-  color: steelblue;
+  color: turquoise;
 }
