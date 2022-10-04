@@ -1,0 +1,25 @@
+body {
+  background-color: powderblue;
+  background-image: url(https://i.pinimg.com/564x/5f/19/d8/5f19d80b8d9bc94a0c22fbd4a4f63777.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#job1 {
+font-family: 'Courier New', Courier, monospace;
+border: 5px dotted black;
+}
+
+#job2 {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+border: 10px solid chartreuse;
+}
+
+#job3 {
+font-family: Arial, Helvetica, sans-serif;
+border: 15px dashed palevioletred;
+}
+
+h1 {
+  color: steelblue;
+}
